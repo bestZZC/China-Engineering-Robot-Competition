@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "yanse_new",
+			"path": "../../yanse_new"
+		},
+		{
+			"name": "colorCheck1",
+			"path": "../../colorCheck1"
+		},
+		{
+			"name": "jixiebi",
+			"path": "../../jixiebi"
+		}
+	],
+	"settings": {}
+}
